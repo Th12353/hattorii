@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/medH5ywz"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RaptorsSexy/Cracks/main/FuckNoir.txt"))();
 
 return(function(A,E,O,S,E,E,B,J,D,C)local I=A.sub
 local F=tonumber
